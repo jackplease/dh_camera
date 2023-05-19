@@ -1,0 +1,6 @@
+/hik_camera:
+  ros__parameters:
+    camera_name: daheng158
+
+    exposure_time: 6000.0
+    gain: 8.0
